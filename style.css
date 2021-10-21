@@ -1,10 +1,8 @@
 p {
-    background-color: aqua;
-    height: 200px;
+    background-color: salmon;
+    height: 300px;
     width: 300px;
-    padding: 200px;
-    margin: 200px;
-    border: blueviolet;
-    
-
+    margin: 300px;
+    border: 20px dotted greenyellow;
+    padding: 150px;
 }

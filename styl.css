@@ -1,0 +1,14 @@
+/* selecteur type d'élement */
+h2 {
+    color: crimson;
+}
+
+/* selecteur ID */
+#A {
+    color: orange;
+}
+
+/* selecteur de classe */ 
+.B {
+    color: green;
+}
