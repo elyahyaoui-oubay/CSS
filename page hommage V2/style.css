@@ -14,7 +14,7 @@ li {
 
 a {
     text-decoration: none;
-    color: #4400ab;
+    color: #ab2800;
     font-weight: 700;
 }
 
@@ -41,7 +41,8 @@ span {
     
 }
 
-h3 {
+h2 {
+    color: green;
     font-weight: 700;
     font-size: 1.8rem;
 }
@@ -63,7 +64,7 @@ h3 {
 }
 
 .title {
-    color: #4400ab;
+    color: #ab3000;
     font-size: 4rem;
     font-weight: 700;
 
