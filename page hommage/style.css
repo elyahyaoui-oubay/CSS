@@ -10,6 +10,7 @@ color: blue;
 position: absolute;
 left: 450px;
 right: 200px;
+padding-left: 20%;
 
 
 }
@@ -20,6 +21,7 @@ img.hassan {
 }                             
 
 ul.A{
+    font-family: 'Montserrat', sans-serif;
 
     color: rgb(0, 0, 0);
     line-height: 50px;
@@ -42,9 +44,18 @@ img.maroc {
 }
 p {
 font-size: 30px;
+padding-left: 3%;
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
 }
 
 h2 {
     font-size: 50px;
     color: green;
+}
+
+.C {
+    float: right;
+    width: 50%;
+    font-size: 40px;
 }
